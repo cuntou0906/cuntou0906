@@ -14,7 +14,7 @@
 
 -- -
 
-#### My repository has some open-source code, I hope it will help you .
+#### My repository has some open-source codes, I hope it will help you .
 
 - ⚡ [AlphaWuziqi_Zero](https://github.com/cuntou0906/AlphaWuziqi_Zero):Use the Alpha_go zero algorithm to Train gobang.
 - ⚡ACO,PSO,GA for [TSP](https://github.com/cuntou0906/TSP).
@@ -37,9 +37,9 @@
 ​       <b>A little more knowledge, ask others less once. One more skill, ask others less once.</b>
 
 - ✨Programming is my hobby . 
-- 🔭I’m  familiar with some hardware,such as STM32 51MCU, Raspberry Pi and so on and Currently do some research on robotic control.
-- 🌱 Programming Language: Matlab,python,c.
-- 👯 Of course,I like java , and am familiar with javaweb. Have studied  html,css,javascript,react,Vue，SSM,Hadoop and so on. If you like these, maybe we can talk about java happily.
+- 🔭I’m  familiar with some hardwares,such as STM32 51MCU, Raspberry Pi and so on and Currently do some researchs on robotic control.
+- 🌱 Programming Language: Matlab,Python,C.
+- 👯 Of course,I like java , and am familiar with javaweb. Have studied html,css,javascript,react,Vue,SSM,Hadoop and so on. If you like these, maybe we can talk about java happily.
 
    ### Come on !!!✨✨✨
 
