@@ -8,7 +8,9 @@
 
 #### &emsp;Hoping my code will help you,and looking forward to your star. 👋
 
-#### &emsp;Welcome to my blog: https://blog.csdn.net/weixin_44231148. 👋
+#### &emsp;Welcome to my blog:   https://blog.csdn.net/weixin_44231148 👋
+                                 https://my.oschina.net/u/5044621 👋
+#### &emsp;Welcome to my Gitee:   https://gitee.com/cuntou0906 👋
 
 -- -
 
