@@ -1,6 +1,6 @@
 # Welcome to My Github!✨
 
-![img](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fatt.bbs.yy.com%2Fforum%2F201705%2F21%2F004241e6eg9c2ri3t66rov.gif&refer=http%3A%2F%2Fatt.bbs.yy.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1618991643&t=015e117ae623848c7aec55c96a56aeed)
+![img](https://cuntou0906.github.io/images/logos/Logo.png)
 
 ### 
 
