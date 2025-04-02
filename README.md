@@ -6,17 +6,17 @@
 
 ### My Homepage:
 
-####   <img src="https://cuntou0906.github.io/images/logos/Logo.png" alt="img" style="zoom:40%;" />[IACAS cuntou0906](https://cuntou0906.github.io/XiaocunLiao) 
+####   <img src="https://cuntou0906.github.io/images/logos/Logo.png" alt="img"  width="30" height="30" />[IACAS cuntou0906](https://cuntou0906.github.io/XiaocunLiao) 
 
 ### My Academic Homepage:
 
-####    <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/GoogleScholor.png" alt="Cuntou0906" style="zoom:16%;" /> [Google Scholar Profile](https://scholar.google.com/citations?user=m9BB2AYAAAAJ&hl=zh-CN&oi=sra)
+####    <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/GoogleScholor.png" alt="Cuntou0906" width="30" height="30" style="align-items: top;"/> [Google Scholar Profile](https://scholar.google.com/citations?user=m9BB2AYAAAAJ&hl=zh-CN&oi=sra)
 
-####     <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/ORCID.png" alt="Cuntou0906" style="zoom:16%;" />[ORCID Profile](https://orcid.org/0000-0002-9455-7015)
+####     <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/ORCID.png" alt="Cuntou0906" width="30" height="30" />[ORCID Profile](https://orcid.org/0000-0002-9455-7015)
 
-####     <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/Researchgate.png" alt="Cuntou0906" style="zoom:20%;" />[ResearchGate Profile](https://www.researchgate.net/profile/Xiaocun-Liao)
+####     <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/Researchgate.png" alt="Cuntou0906" width="30" height="30" />[ResearchGate Profile](https://www.researchgate.net/profile/Xiaocun-Liao)
 
-####      <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/WebofScience.jpg" alt="Cuntou0906" style="zoom:16%;" />[Web of Science Profile](https://www.webofscience.com/wos/author/record/GVS-3269-2022)
+####      <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/WebofScience.jpg" alt="Cuntou0906" width="30" height="30" />[Web of Science Profile](https://www.webofscience.com/wos/author/record/GVS-3269-2022)
 
 ####   Hoping my code will help you, and looking forward to your star. 👋
 
