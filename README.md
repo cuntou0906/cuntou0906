@@ -14,6 +14,7 @@
 #### &emsp;Welcome to my Gitee:  https://gitee.com/cuntou0906 👋
 
 -- -
+## Try to prove impossible is possible !👆
 
 #### My repository has some open-source codes, I hope it will help you.
 
@@ -31,9 +32,7 @@
 
 ### **&emsp;Ongoing update**....
 
-### I always believed:🤔
-
-​       <b>A little more knowledge, ask others less once. One more skill, ask others less once.</b>
+## Never say never !☝
 
 - ✨Programming is one of my hobbies. 
 - 🔭I’m familiar with some hardware, such as STM32 51MCU, Raspberry Pi, and so on, and currently do some researches on robotic control.
