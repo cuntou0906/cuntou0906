@@ -41,9 +41,9 @@
 ## Never say never !☝
 
 - ✨Programming is one of my hobbies. 
-- 🔭I’m familiar with some hardware, such as STM32 51MCU, Raspberry Pi, and so on, and currently do some researches on robotic control.
+- 🔭I’m familiar with some hardware, such as STM32 51MCU, Raspberry Pi, and so on, and currently do some researches on robotic control and structural design.
 - 🌱 Programming Language: Matlab, Python, C.
-- 👯 Of course, I like Java and am familiar with Javaweb, HTML, CSS, javascript, react, Vue, SSM, Hadoop and so on. If you like these, maybe we can talk about Java happily.
+- 👯 Of course, I like Java and am familiar with Javaweb, HTML, CSS, Javascript, React, Vue, SSM, Hadoop and so on. If you like these, maybe we can talk about Java happily.
 
    ### Come on !!!✨✨✨
 
