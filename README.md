@@ -56,4 +56,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/cuntou0906/count.svg)
 
-![Top Langs](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/top-langs/?username=cuntou0906&layout=compact&layout=compact)
+![Top Langs](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/top-langs/?username=cuntou0906&layout=compact)
