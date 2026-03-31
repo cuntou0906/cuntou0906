@@ -41,9 +41,9 @@
 ## Never say never !☝
 
 - ✨Programming is one of my hobbies. 
-- 🔭I’m familiar with some hardware, such as <img src="https://img.shields.io/badge/STM32-red"> <img src="https://img.shields.io/badge/51MCU-blue">, <img alt="Static Badge" src="https://img.shields.io/badge/Raspberry Pi-pink">, and so on, and currently do some researches on robotic control and structural design.
-- 🌱 Programming Language: <img src="https://img.shields.io/badge/Matlab-Cyan">, <img src="https://img.shields.io/badge/Python-Brown">, <img src="https://img.shields.io/badge/C-Purple">.
-- 👯 Of course, I like Java and am familiar with Javaweb, HTML, CSS, Javascript, React, Vue, SSM, Hadoop and so on. If you like these, maybe we can talk about Java happily.
+- 🔭I’m familiar with some hardware, such as <img src="https://img.shields.io/badge/STM32-red" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/51MCU-blue"  style="vertical-align: middle;">, <img alt="Static Badge" src="https://img.shields.io/badge/Raspberry Pi-pink" style="vertical-align: middle;">, and so on, and currently do some researches on robotic control and structural design.
+- 🌱 Programming Language: <img src="https://img.shields.io/badge/Matlab-cyan" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/Python-brown" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/C-purple" style="vertical-align: middle;">.
+- 👯 Of course, I like Java and am familiar with <img src="https://img.shields.io/badge/Javaweb-grey" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/HTML-cyan" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/CSS-purple" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/Javascript-magenta" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/React-teal" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/Vue-maroon" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/SSM-olive" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/Hadoop-coral" style="vertical-align: middle;"> and so on. If you like these, maybe we can talk about <img src="https://img.shields.io/badge/Java-scarlet" style="vertical-align: middle;"> happily.
 
    ### Come on !!!✨✨✨
 
@@ -53,7 +53,4 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api?username=cuntou0906)](https://github.com/anuraghazra/github-readme-stats)
-
-![Visitor Count](https://profile-counter.glitch.me/cuntou0906/count.svg)
-
 ![Top Langs](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/top-langs/?username=cuntou0906&layout=compact)
