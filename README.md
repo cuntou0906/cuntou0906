@@ -52,5 +52,8 @@
 - 📫 Contact with me: Email:  1084895390@qq.com 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api?username=cuntou0906)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/top-langs/?username=cuntou0906&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api?username=cuntou0906)](https://github.com/cuntou0906/github-readme-stats)
+[![Top Langs](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/top-langs/?username=cuntou0906&layout=compact)](https://github.com/cuntou0906/github-readme-stats)
+![Readme Card](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/?username=cuntou0906&repo=Quality_mining)
+
+[![Readme Card](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/pin/?username=cuntou0906&repo=Quality_mining)](https://github.com/cuntou0906/Quality_mining)
