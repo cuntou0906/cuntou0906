@@ -41,8 +41,8 @@
 ## Never say never !☝
 
 - ✨Programming is one of my hobbies. 
-- 🔭I’m familiar with some hardware, such as STM32 51MCU, Raspberry Pi, and so on, and currently do some researches on robotic control and structural design.
-- 🌱 Programming Language: Matlab, Python, C.
+- 🔭I’m familiar with some hardware, such as <img src="https://img.shields.io/badge/STM32-red"> <img src="https://img.shields.io/badge/51MCU-blue">, <img alt="Static Badge" src="https://img.shields.io/badge/Raspberry Pi-pink">, and so on, and currently do some researches on robotic control and structural design.
+- 🌱 Programming Language: <img src="https://img.shields.io/badge/Matlab-Cyan">, <img src="https://img.shields.io/badge/Python-Brown">, <img src="https://img.shields.io/badge/C-Purple">.
 - 👯 Of course, I like Java and am familiar with Javaweb, HTML, CSS, Javascript, React, Vue, SSM, Hadoop and so on. If you like these, maybe we can talk about Java happily.
 
    ### Come on !!!✨✨✨
