@@ -1,4 +1,4 @@
-# ![Profile Banner](https://cuntou0906.github.io/images/logos/Logo.png){: style="width:100%; max-height:300px; object-fit:cover;"} Welcome to My GitHub Profile
+# <img src="https://cuntou0906.github.io/images/logos/Logo.png" alt="img"  width="130" /> Welcome to My GitHub Profile
 
 
 
@@ -64,8 +64,8 @@ Below are some of the repositories I maintain. Feel free to ⭐️ them!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api?username=cuntou0906&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/top-langs/?username=cuntou0906&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api?username=cuntou0906" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/top-langs/?username=cuntou0906&layout=compact" alt="Top languages"/>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api?username=cuntou0906)
