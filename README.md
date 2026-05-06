@@ -53,14 +53,6 @@ Below are some of the repositories I maintain. Feel free to ⭐️ them!
 
 ---
 
-## 📫 Get in Touch
-
-- **Email:** 1084895390@qq.com
-- 👋 Welcome to my [CSDN blog](https://blog.csdn.net/weixin_44231148).
-- 👋 Welcome to my [Gitee](https://gitee.com/cuntou0906).
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -74,6 +66,14 @@ Below are some of the repositories I maintain. Feel free to ⭐️ them!
 <!-- 额外仓库pin -->
 <!-- [![Readme Card](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/pin/?username=cuntou0906&repo=Quality_mining)](https://github.com/cuntou0906/Quality_mining) -->
 
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** 1084895390@qq.com
+- 👋 Welcome to my [CSDN blog](https://blog.csdn.net/weixin_44231148).
+- 👋 Welcome to my [Gitee](https://gitee.com/cuntou0906).
 
 ---
 
