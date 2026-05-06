@@ -1,4 +1,4 @@
-# <img src="https://cuntou0906.github.io/images/logos/Logo.png" alt="img"  width="85 px" /> Welcome to My GitHub Profile
+<h1 align="center"><img src="https://cuntou0906.github.io/images/logos/Logo.png" alt="img" width="85px" style="vertical-align:middle; margin-right:8px;"> Welcome to My GitHub Profile</h1>
 
 
 
