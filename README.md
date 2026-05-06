@@ -1,59 +1,85 @@
-# Welcome to My Github!✨
+<h1 align="center"><img src="https://cuntou0906.github.io/images/logos/Logo.png" alt="img" width="85px" style="vertical-align:middle; margin-right:8px;"> Welcome to My GitHub Profile</h1>
 
-<img src="https://cuntou0906.github.io/images/logos/Logo.png" alt="img" />
 
-### Hi, My name is cuntou0906. 😄
 
-### My Homepage:
+## 🙋‍♂️ About Me
 
-#### &emsp;👉 [IACAS cuntou0906](https://cuntou0906.github.io/XiaocunLiao) 
+**Hi, I’m `cuntou0906`** – a passionate coder, researcher, and hardware enthusiast. I love turning ideas into open‑source projects and sharing knowledge.
 
-### My Academic Homepage:
+### 🌐 Personal & Academic Homepage
 
-#### &emsp;<img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/GoogleScholor.png" alt="Cuntou0906" width="30" style="align-items: top;"/> [Google Scholar Profile](https://scholar.google.com/citations?user=m9BB2AYAAAAJ&hl=zh-CN&oi=sra)&emsp;&emsp;&emsp;&emsp;<img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/ORCID.png" alt="Cuntou0906" width="30"/>[ORCID Profile](https://orcid.org/0000-0002-9455-7015)
+- <img src="https://cuntou0906.github.io/images/logos/Logo.png" alt="img"  width="30" />**Personal site:** [IACAS  cuntou0906 ](https://cuntou0906.github.io/XiaocunLiao)   
+- <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/GoogleScholor.png" alt="Cuntou0906" width="30" style="align-items: top;"/>**Google Scholar:** [Profile](https://scholar.google.com/citations?user=m9BB2AYAAAAJ&hl=zh-CN)   
+- <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/ORCID.png" alt="Cuntou0906" width="30"/>**ORCID:** [0000‑0002‑9455‑7015](https://orcid.org/0000-0002-9455-7015)   
+- <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/Researchgate.png" alt="Cuntou0906" width="30"/>**ResearchGate:** [Profile](https://www.researchgate.net/profile/Xiaocun-Liao)   
+- <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/WebofScience.jpg" alt="Cuntou0906" width="25"/>**Web of Science:** [Profile](https://www.webofscience.com/wos/author/record/GVS-3269-2022)
 
-#### &emsp;<img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/Researchgate.png" alt="Cuntou0906" width="30"/>[ResearchGate Profile](https://www.researchgate.net/profile/Xiaocun-Liao) &emsp;&emsp;&emsp;&emsp;&ensp; <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/WebofScience.jpg" alt="Cuntou0906" width="25"/>[Web of Science Profile](https://www.webofscience.com/wos/author/record/GVS-3269-2022)
+### 📖 Others
 
-####   Hoping my code will help you, and looking forward to your star and following. 👋
+- <img src="https://g.csdnimg.cn/static/logo/favicon32.ico" alt="Cuntou0906" width="25"/> Welcome to my [CSDN blog](https://blog.csdn.net/weixin_44231148).
+- <img src="https://cn-assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico" alt="Cuntou0906" width="25"/> Welcome to my [Gitee](https://gitee.com/cuntou0906).
 
-- 👋 Welcome to my [CSDN blog](https://blog.csdn.net/weixin_44231148)
-- 👋 Welcome to my [Gitee](https://gitee.com/cuntou0906)
+---
 
--- -
-## Try to prove impossible is possible !👆
+## 🚀 Open‑Source Projects
 
-####   My repository has some open-source codes and hoping those will help you.
+Below are some of the repositories I maintain. Feel free to ⭐️ them!
 
-- ⚡ [AlphaWuziqi_Zero](https://github.com/cuntou0906/AlphaWuziqi_Zero):Use the Alpha_go zero algorithm to Train gobang.
-- ⚡ACO,PSO,GA for [TSP](https://github.com/cuntou0906/TSP).
-- ⚡ ACO, PSO, GA for [Route-Planning](https://github.com/cuntou0906/Route-Planning) 
-- ⚡ [AutoGitTool](https://github.com/cuntou0906/AutoGitTool_PythonScript): A tool for automatic add, commit, push, pull operations of multiple git repositories!. 
-- ⚡ [pipUtils](https://github.com/cuntou0906/pipUtils): A tool for pip,Automatic Download python Package. 
-- ⚡[Some Image Algorithm](https://github.com/cuntou0906/Image-Segmentation)：OTSU，Iteration Process，Hough Transform.
-- ⚡[Adaptive-dynamic-programming](https://github.com/cuntou0906/Adaptive-dynamic-programming)
-- ⚡[Lower-order-of-higher-order-differential-equations](https://github.com/cuntou0906/Lower-order-of-higher-order-differential-equations)
-- ⚡[B-spline](https://github.com/cuntou0906/B-spline)
-- ⚡[Morphology-of-images](https://github.com/cuntou0906/Morphology-of-images)
-- ⚡[DFT-And-IDFT-of-Image](https://github.com/cuntou0906/DFT-And-IDFT-of-Image)
+| Project                          | Description                                                  |
+| -------------------------------- | ------------------------------------------------------------ |
+| **AlphaWuziqi_Zero**             | Alpha‑Go Zero implementation for Gobang (board game).        |
+| **TSP**                          | ACO, PSO, and GA algorithms for the Traveling Salesman Problem. |
+| **Route‑Planning**               | Meta‑heuristic solvers for route optimization.               |
+| **AutoGitTool-PythonScript**     | Python Script of Automated `add/commit/push/pull` operations for multiple Git repositories. |
+| **AutoGitTool-UI**               | Windows UI Applications of Automated `add/commit/push/pull` operations for multiple Git repositories. |
+| **pipUtils**                     | Helper script for batch‑downloading Python packages.         |
+| **Image‑Segmentation**           | Classic image algorithms – OTSU, Hough Transform, etc.       |
+| **Adaptive‑Dynamic‑Programming** | Adaptive DP examples and tutorials.                          |
+| **Differential‑Equations**       | Solutions for lower‑order and higher‑order ODEs.             |
+| **B‑spline**                     | B‑spline curve generation utilities.                         |
+| **Morphology‑of‑Images**         | Image morphology operations.                                 |
+| **DFT‑And‑IDFT‑of‑Image**        | Discrete Fourier Transform utilities for images.             |
 
-##### **&emsp;Ongoing update**....
+> **🚧 Ongoing updates** – new repositories and demos are added weekly!
 
-## Never say never !☝
+---
+
+## 🛠️ Skills & Tools
 
 - ✨Programming is one of my hobbies. 
+
 - 🔭I’m familiar with some hardware, such as <img src="https://img.shields.io/badge/STM32-red" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/51MCU-blue"  style="vertical-align: middle;">, <img alt="Static Badge" src="https://img.shields.io/badge/Raspberry Pi-pink" style="vertical-align: middle;">, and so on, and currently do some researches on robotic control and structural design.
+
 - 🌱 Programming Language: <img src="https://img.shields.io/badge/Matlab-cyan" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/Python-brown" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/C-purple" style="vertical-align: middle;">.
+
 - 👯 Of course, I like Java and am familiar with <img src="https://img.shields.io/badge/Javaweb-grey" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/HTML-cyan" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/CSS-purple" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/Javascript-magenta" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/React-teal" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/Vue-maroon" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/SSM-olive" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/Hadoop-coral" style="vertical-align: middle;"> and so on. If you like these, maybe we can talk about <img src="https://img.shields.io/badge/Java-scarlet" style="vertical-align: middle;"> happily.
 
-   ### Come on !!!✨✨✨
+  <p align="center">
+    <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhiphotos.baidu.com%2Ffeed%2Fpic%2Fitem%2F622762d0f703918ff6cec4105d3d269758eec4c9.jpg&refer=http%3A%2F%2Fhiphotos.baidu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1618992621&t=ad16f1042ec7cba15fde5f49fd8613ac" alt="Come on"/>
+  </p>
 
-![img](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhiphotos.baidu.com%2Ffeed%2Fpic%2Fitem%2F622762d0f703918ff6cec4105d3d269758eec4c9.jpg&refer=http%3A%2F%2Fhiphotos.baidu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1618992621&t=ad16f1042ec7cba15fde5f49fd8613ac)
+---
 
-- 📫 Contact with me: Email:  1084895390@qq.com 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api?username=cuntou0906" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/top-langs/?username=cuntou0906&layout=compact" alt="Top languages"/>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api?username=cuntou0906)
-![Top Langs](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/top-langs/?username=cuntou0906&layout=compact)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api?username=cuntou0906) -->
+<!-- ![Top Langs](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/top-langs/?username=cuntou0906&layout=compact) -->
 
 <!-- 额外仓库pin -->
 <!-- [![Readme Card](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/pin/?username=cuntou0906&repo=Quality_mining)](https://github.com/cuntou0906/Quality_mining) -->
+
+
+---
+
+## 📫 Get in Touch
+
+- **Email:** 1084895390@qq.com
+
+---
+
+*“Never say never.” – Let’s build the impossible together!*
