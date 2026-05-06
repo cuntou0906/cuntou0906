@@ -1,4 +1,4 @@
-# <img src="https://cuntou0906.github.io/images/logos/Logo.png" alt="img"  width="130" /> Welcome to My GitHub Profile
+# <img src="https://cuntou0906.github.io/images/logos/Logo.png" alt="img"  width="85" /> Welcome to My GitHub Profile
 
 
 
@@ -49,7 +49,9 @@ Below are some of the repositories I maintain. Feel free to ⭐️ them!
 
 - 👯 Of course, I like Java and am familiar with <img src="https://img.shields.io/badge/Javaweb-grey" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/HTML-cyan" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/CSS-purple" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/Javascript-magenta" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/React-teal" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/Vue-maroon" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/SSM-olive" style="vertical-align: middle;">, <img src="https://img.shields.io/badge/Hadoop-coral" style="vertical-align: middle;"> and so on. If you like these, maybe we can talk about <img src="https://img.shields.io/badge/Java-scarlet" style="vertical-align: middle;"> happily.
 
-  ![img](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhiphotos.baidu.com%2Ffeed%2Fpic%2Fitem%2F622762d0f703918ff6cec4105d3d269758eec4c9.jpg&refer=http%3A%2F%2Fhiphotos.baidu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1618992621&t=ad16f1042ec7cba15fde5f49fd8613ac)
+  <p align="center">
+    <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhiphotos.baidu.com%2Ffeed%2Fpic%2Fitem%2F622762d0f703918ff6cec4105d3d269758eec4c9.jpg&refer=http%3A%2F%2Fhiphotos.baidu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1618992621&t=ad16f1042ec7cba15fde5f49fd8613ac" alt="Come on"/>
+  </p>
 
 ---
 
@@ -60,8 +62,8 @@ Below are some of the repositories I maintain. Feel free to ⭐️ them!
   <img src="https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/top-langs/?username=cuntou0906&layout=compact" alt="Top languages"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api?username=cuntou0906)
-![Top Langs](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/top-langs/?username=cuntou0906&layout=compact)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api?username=cuntou0906) -->
+<!-- ![Top Langs](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/top-langs/?username=cuntou0906&layout=compact) -->
 
 <!-- 额外仓库pin -->
 <!-- [![Readme Card](https://github-readme-stats-gold-nine-n5d2qnmu6e.vercel.app/api/pin/?username=cuntou0906&repo=Quality_mining)](https://github.com/cuntou0906/Quality_mining) -->
