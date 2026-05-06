@@ -16,8 +16,8 @@
 
 ### 📖 Others
 
-- <img src="https://g.csdnimg.cn/static/logo/favicon32.ico" alt="Cuntou0906" width="25"/> Welcome to my [CSDN blog](https://blog.csdn.net/weixin_44231148).
-- <img src="https://cn-assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico" alt="Cuntou0906" width="25"/> Welcome to my [Gitee](https://gitee.com/cuntou0906).
+- <img src="https://g.csdnimg.cn/static/logo/favicon32.ico" alt="Cuntou0906" width="21"/> Welcome to my [CSDN blog](https://blog.csdn.net/weixin_44231148).
+- <img src="https://cn-assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico" alt="Cuntou0906" width="21"/> Welcome to my [Gitee](https://gitee.com/cuntou0906).
 
 ---
 
