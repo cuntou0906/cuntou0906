@@ -1,9 +1,4 @@
-<span style="text-align: center;">
-  <img src="https://cuntou0906.github.io/images/logos/Logo.png" alt="Logo" style="display: block; margin: 0 auto;">
-  <span style = "font-size: 32px; font-weight: bold;"> 
-      Welcome to My GitHub Profile
-	</span>
-</span>
+# <img src="https://cuntou0906.github.io/images/logos/Logo.png" alt="img"  width="85 px" /> Welcome to My GitHub Profile
 
 
 
