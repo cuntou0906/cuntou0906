@@ -6,13 +6,18 @@
 
 **Hi, I’m `cuntou0906`** – a passionate coder, researcher, and hardware enthusiast. I love turning ideas into open‑source projects and sharing knowledge.
 
-### 🌐 Personal & Academic Homepages
+### 🌐 Personal & Academic Homepage
 
 - <img src="https://cuntou0906.github.io/images/logos/Logo.png" alt="img"  width="30" />**Personal site:** [IACAS  cuntou0906 ](https://cuntou0906.github.io/XiaocunLiao)   
 - <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/GoogleScholor.png" alt="Cuntou0906" width="30" style="align-items: top;"/>**Google Scholar:** [Profile](https://scholar.google.com/citations?user=m9BB2AYAAAAJ&hl=zh-CN)   
 - <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/ORCID.png" alt="Cuntou0906" width="30"/>**ORCID:** [0000‑0002‑9455‑7015](https://orcid.org/0000-0002-9455-7015)   
 - <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/Researchgate.png" alt="Cuntou0906" width="30"/>**ResearchGate:** [Profile](https://www.researchgate.net/profile/Xiaocun-Liao)   
 - <img src="https://cuntou0906.github.io/XiaocunLiao/images/ReasechLOGO/WebofScience.jpg" alt="Cuntou0906" width="25"/>**Web of Science:** [Profile](https://www.webofscience.com/wos/author/record/GVS-3269-2022)
+
+### 📖 Others
+
+- <img src="https://g.csdnimg.cn/static/logo/favicon32.ico" alt="Cuntou0906" width="25"/> Welcome to my [CSDN blog](https://blog.csdn.net/weixin_44231148).
+- <img src="https://cn-assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico" alt="Cuntou0906" width="25"/> Welcome to my [Gitee](https://gitee.com/cuntou0906).
 
 ---
 
@@ -74,8 +79,6 @@ Below are some of the repositories I maintain. Feel free to ⭐️ them!
 ## 📫 Get in Touch
 
 - **Email:** 1084895390@qq.com
-- 👋 Welcome to my [CSDN blog](https://blog.csdn.net/weixin_44231148).
-- 👋 Welcome to my [Gitee](https://gitee.com/cuntou0906).
 
 ---
 
