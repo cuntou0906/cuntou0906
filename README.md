@@ -25,20 +25,20 @@
 
 Below are some of the repositories I maintain. Feel free to ⭐️ them!
 
-| Project                          | Description                                                  |
-| -------------------------------- | ------------------------------------------------------------ |
-| **AlphaWuziqi_Zero**             | Alpha‑Go Zero implementation for Gobang (board game).        |
-| **TSP**                          | ACO, PSO, and GA algorithms for the Traveling Salesman Problem. |
-| **Route‑Planning**               | Meta‑heuristic solvers for route optimization.               |
-| **AutoGitTool-PythonScript**     | Python Script of Automated `add/commit/push/pull` operations for multiple Git repositories. |
-| **AutoGitTool-UI**               | Windows UI Applications of Automated `add/commit/push/pull` operations for multiple Git repositories. |
-| **pipUtils**                     | Helper script for batch‑downloading Python packages.         |
-| **Image‑Segmentation**           | Classic image algorithms – OTSU, Hough Transform, etc.       |
-| **Adaptive‑Dynamic‑Programming** | Adaptive DP examples and tutorials.                          |
-| **Differential‑Equations**       | Solutions for lower‑order and higher‑order ODEs.             |
-| **B‑spline**                     | B‑spline curve generation utilities.                         |
-| **Morphology‑of‑Images**         | Image morphology operations.                                 |
-| **DFT‑And‑IDFT‑of‑Image**        | Discrete Fourier Transform utilities for images.             |
+|                           Project                            |                         Description                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [**AlphaWuziqi_Zero**](https://github.com/cuntou0906/AlphaWuziqi_Zero) |    Alpha‑Go Zero implementation for Gobang (board game).     |
+|         [**TSP**](https://github.com/cuntou0906/TSP)         | ACO, PSO, and GA algorithms for the Traveling Salesman Problem. |
+| [**Route‑Planning**](https://github.com/cuntou0906/Route-Planning) |        Meta‑heuristic solvers for route optimization.        |
+| [**AutoGitTool-PythonScript**](https://github.com/cuntou0906/AutoGitTool_PythonScript) | Python Script of Automated `add/commit/push/pull` operations for multiple Git repositories. |
+| [**AutoGitTool-UI**](https://github.com/cuntou0906/AutoGitTool_UI) | Windows UI Applications of Automated `add/commit/push/pull` operations for multiple Git repositories. |
+|    [**pipUtils**](https://github.com/cuntou0906/pipUtils)    |     Helper script for batch‑downloading Python packages.     |
+| [**Image‑Segmentation**](https://github.com/cuntou0906/Image-Segmentation) |    Classic image algorithms – OTSU, Hough Transform, etc.    |
+| [**Adaptive‑Dynamic‑Programming**](https://github.com/cuntou0906/Adaptive-dynamic-programming) |             Adaptive DP examples and tutorials.              |
+| [**Matlab for differential-equations**](https://github.com/cuntou0906/Matlab-for-differential-equations) |       Solutions for lower‑order and higher‑order ODEs.       |
+|    [**B‑spline**](https://github.com/cuntou0906/B-spline)    |             B‑spline curve generation utilities.             |
+| [**Morphology‑of‑Images**](https://github.com/cuntou0906/Morphology-of-images) |                 Image morphology operations.                 |
+| [**DFT‑And‑IDFT‑of‑Image**](https://github.com/cuntou0906/DFT-And-IDFT-of-Image) |       Discrete Fourier Transform utilities for images.       |
 
 > **🚧 Ongoing updates** – new repositories and demos are added weekly!
 
